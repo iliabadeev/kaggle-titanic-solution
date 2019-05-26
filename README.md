@@ -1,20 +1,20 @@
 # Kaggle: Titanic (Score: 0.77033)
-This project is a part of the practicing at [Kaggle: Titanic](https://www.kaggle.com/c/titanic). 
+This project is a part of practicing at [Kaggle: Titanic](https://www.kaggle.com/c/titanic). 
 
 #### -- Project Status: [Completed]
 
 ## Project Intro/Objective
-The main perpouses of the project are:
+The main perposes of the project are:
 - Practice of Exploratory Data Analysis
-- Practice of visualisation methods with pyhon (Matplotlib / Seaborn / Pandas graphs)
+- Practice of visualization methods with Python (Matplotlib / Seaborn / Pandas graphs)
 - To find in-data relationships and dependences
-- Feature exploration and enginiring
+- Feature exploration and engineering
 - Practice of different ML algorithms
 
 ### Methods and ML-algorithms Used
 - Exploratory Data Analysis
 - Logistic Regression - Accuracy CV 10-Fold: 78.51519
-- K Nearest-Neightbors - Accuracy CV 10-Fold: 73.67829
+- K Nearest-Neighbors - Accuracy CV 10-Fold: 73.67829
 - Gaussian Naive Bayes - Accuracy CV 10-Fold: 76.37795
 - Linear Support Vector Machines (SVC) - Accuracy CV 10-Fold: 76.94038
 - Stochastic Gradient Descent - Accuracy CV 10-Fold: 59.39258
