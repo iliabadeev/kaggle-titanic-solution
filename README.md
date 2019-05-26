@@ -1,4 +1,4 @@
-# Kaggle: Titanic (solution)
+# Kaggle: Titanic (Score: 0.77033)
 This project is a part of the practicing at [Kaggle: Titanic](https://www.kaggle.com/c/titanic). 
 
 #### -- Project Status: [Completed]
